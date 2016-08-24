@@ -1,0 +1,76 @@
+@charset "utf-8";
+/* CSS Document */
+
+.container{
+	background-color:#6293ba;
+	border-radius:0px 0px 10px 10px;
+	padding-bottom:50px;
+}
+
+.col-sm-6{
+	margin-top:5px;
+	margin-bottom:10px;
+}
+
+.login{
+	background:blue;
+}
+
+.login:hover{
+	background:red !important;
+}
+
+td,th{
+	border:#000 solid 1px;
+	text-align:center !important;
+	padding:2px !important;
+}
+
+th{
+	color:#006;
+	background:#06C;
+	padding:10px !important;
+}
+
+td{
+	color:#006 !important;
+	padding:10px !important;
+}
+
+.login-container{
+	padding-bottom:200px;
+	padding-top:100px;
+}
+
+.login-form{
+	width:70%;
+	margin:0 auto;
+	border:#000 solid 2px;
+	padding:20px;
+	border-radius:20px;
+}
+
+.col-sm-4{
+	border:#0F9 solid 1px;
+}
+
+.view-btn{
+	width:100px !important;
+	margin-left:1px;
+}
+
+.ad-row{
+	margin-top:10px !important;
+}
+
+.date{
+	margin-top:5px !important;
+	margin-bottom:10px !important;
+}
+
+font{
+	color:#00F;
+	float:right;
+	margin-right:5px;
+	font-family:"MS Serif", "New York", serif;
+}
